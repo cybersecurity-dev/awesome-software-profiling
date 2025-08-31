@@ -15,6 +15,10 @@
 - [Contributors](#contributors)
 
 
+## Tools
+- [heaptrack](https://github.com/KDE/heaptrack) - A heap memory [profiler](https://invent.kde.org/sdk/heaptrack) for Linux
+- [omnitrace](https://github.com/ROCm/omnitrace) - [Omnitrace](https://rocm.docs.amd.com/projects/omnitrace/en/docs-6.2.4/): Application Profiling, Tracing, and Analysis
+
 ## 
 
 ### My Other Awesome Lists
