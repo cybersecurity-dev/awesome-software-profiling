@@ -19,6 +19,8 @@
 ## Tools
 - [heaptrack](https://github.com/KDE/heaptrack) - A heap memory [profiler](https://invent.kde.org/sdk/heaptrack) for Linux
 - [hotspot](https://github.com/KDAB/hotspot) - The Linux perf GUI for performance analysis.
+- [Intel VTune Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html) - Intel® [VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler-documentation.html) optimizes application performance, system performance, and system configuration for AI, HPC, cloud, IoT, media, storage, and more.
+- [NVIDIA Nsight](https://developer.nvidia.com/nsight-systems) - NVIDIA Nsight™ Systems is a system-wide performance analysis tool designed to visualize an application’s algorithms, identify the largest opportunities to optimize, and tune to scale efficiently across any quantity or size of CPUs and GPUs, from large servers to our smallest systems-on-a-chip (SoCs).
 - [omnitrace](https://github.com/ROCm/omnitrace) - [Omnitrace](https://rocm.docs.amd.com/projects/omnitrace/en/docs-6.2.4/): Application Profiling, Tracing, and Analysis
 - [tracy](https://github.com/wolfpld/tracy/) - Frame [profiler](https://github.com/wolfpld/tracy/).
 
