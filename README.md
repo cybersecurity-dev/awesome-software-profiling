@@ -10,6 +10,7 @@
 </p>
 
 ## 📖 Contents
+- [Tools](#tools)
 - [My Other Awesome Lists](#my-other-awesome-lists)
 - [Contributing](#contributing)
 - [Contributors](#contributors)
