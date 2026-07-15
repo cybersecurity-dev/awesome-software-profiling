@@ -1,6 +1,6 @@
 <div align="center">
 
-# **`Awesome`** [Software](https://wikipedia.org/wiki/Profiling_(information_science)) [Profiling](https://wikipedia.org/wiki/Profiling_(computer_programming))  [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# **`Awesome`** [Software](https://wikipedia.org/wiki/Profiling_(information_science)) [Profiling](https://wikipedia.org/wiki/Profiling_(computer_programming)) [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 </div>
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)]() 
@@ -40,5 +40,8 @@ You can access the my other awesome lists [here](https://cyberthreatdefence.com/
 
 ### Contributors
 [Thanks goes to these contributors](https://github.com/cybersecurity-dev/awesome-software-profiling/graphs/contributors)!
+
+### License
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](http://creativecommons.org/publicdomain/zero/1.0)
 
 [🔼 Back to top](#awesome-software-profiling-)
